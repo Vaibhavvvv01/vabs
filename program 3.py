@@ -1,4 +1,4 @@
-from operator import truediv
+
 '''
 name = "vaibhav"
 car = "maruti"
